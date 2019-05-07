@@ -1,2 +1,9 @@
 // This is the top-level scss file. Import all other files in here.
 @import 'home';
+
+pre {
+  display: inline-block;
+  padding: 10px;
+  background-color: #e7e7e7;
+  border: 1px solid black;
+}
